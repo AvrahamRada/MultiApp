@@ -1,0 +1,4 @@
+include ':garage'
+include ':common'
+include ':client'
+rootProject.name = "MultiAppHomework_02"
