@@ -12,4 +12,3 @@ Enjoy :)
 
 <br><br>
 <img src = "https://github.com/AvrahamRada/MultiApp/blob/master/client.png" height = 600>
-<img src = "https://github.com/AvrahamRada/MultiApp/blob/master/garage.png" height = 600>
