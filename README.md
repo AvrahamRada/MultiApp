@@ -11,5 +11,5 @@ Enjoy :)
 
 
 <br><br>
-<img src = "https://github.com/Dtabaja/HW2_GarageClientRetrofit/blob/master/Screenshot_1613321828.png" height = 600>
-<img src = "https://github.com/Dtabaja/HW2_GarageClientRetrofit/blob/master/Screenshot_1613321847.png" height = 600>
+<img src = "https://github.com/AvrahamRada/MultiApp/blob/master/client.png" height = 600>
+<img src = "https://github.com/AvrahamRada/MultiApp/blob/master/garage.png" height = 600>
